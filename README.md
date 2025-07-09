@@ -18,4 +18,3 @@ A simple command-line Hotel Management System written in C. This system includes
   - Search room details
 - Data stored in `.txt` files (users.txt, rooms.txt, reservations.txt)
 
-## 🛠 File Structure
